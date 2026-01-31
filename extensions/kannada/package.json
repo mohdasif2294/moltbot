@@ -1,0 +1,12 @@
+{
+  "name": "@openclaw/kannada",
+  "version": "0.1.0",
+  "description": "Spoken Kannada learning assistant",
+  "type": "module",
+  "devDependencies": {
+    "openclaw": "workspace:*"
+  },
+  "openclaw": {
+    "extensions": ["./index.ts"]
+  }
+}
